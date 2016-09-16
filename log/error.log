@@ -1,0 +1,575 @@
+[15/Jul/2014:21:03:05 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[16/Jul/2014:04:54:31 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[17/Jul/2014:04:18:18 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[17/Jul/2014:04:35:01 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[17/Jul/2014:04:35:01 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[17/Jul/2014:04:35:09 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[17/Jul/2014:04:35:09 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[17/Jul/2014:04:35:42 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:04:36:53 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:04:36:53 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[17/Jul/2014:04:37:06 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:04:37:08 +0200] Server.httpServe: SHUTDOWN
+[17/Jul/2014:04:37:08 +0200] Server.httpServe: BACKEND STOPPED
+[17/Jul/2014:05:13:46 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:05:14:25 +0200] Server.httpServe: SHUTDOWN
+[17/Jul/2014:05:14:25 +0200] Server.httpServe: BACKEND STOPPED
+[17/Jul/2014:05:14:35 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:05:37:34 +0200] Server.httpServe: SHUTDOWN
+[17/Jul/2014:05:37:34 +0200] Server.httpServe: BACKEND STOPPED
+[17/Jul/2014:05:37:36 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:05:37:37 +0200] Server.httpServe: SHUTDOWN
+[17/Jul/2014:05:37:37 +0200] Server.httpServe: BACKEND STOPPED
+[17/Jul/2014:05:39:29 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[17/Jul/2014:05:41:15 +0200] Server.httpServe: SHUTDOWN
+[17/Jul/2014:05:41:15 +0200] Server.httpServe: BACKEND STOPPED
+[17/Jul/2014:05:41:24 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[18/Jul/2014:00:20:02 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Jul/2014:00:31:01 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Jul/2014:00:31:01 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[18/Jul/2014:00:31:07 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[18/Jul/2014:03:15:50 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[18/Jul/2014:03:15:50 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[18/Jul/2014:03:15:58 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[18/Jul/2014:03:15:58 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[18/Jul/2014:03:16:00 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[18/Jul/2014:03:17:53 +0200] Server.httpServe: SHUTDOWN
+[18/Jul/2014:03:17:53 +0200] Server.httpServe: BACKEND STOPPED
+[18/Jul/2014:03:18:21 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[18/Jul/2014:03:24:37 +0200] Server.httpServe: SHUTDOWN
+[18/Jul/2014:03:24:37 +0200] Server.httpServe: BACKEND STOPPED
+[18/Jul/2014:03:36:27 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[18/Jul/2014:03:37:10 +0200] Server.httpServe: SHUTDOWN
+[18/Jul/2014:03:37:10 +0200] Server.httpServe: BACKEND STOPPED
+[18/Jul/2014:03:37:17 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[20/Jul/2014:04:02:21 +0200] Server.httpServe: SHUTDOWN
+[20/Jul/2014:04:02:21 +0200] Server.httpServe: BACKEND STOPPED
+[20/Jul/2014:10:06:06 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[20/Jul/2014:10:10:08 +0200] Server.httpServe: SHUTDOWN
+[20/Jul/2014:10:10:08 +0200] Server.httpServe: BACKEND STOPPED
+[20/Jul/2014:10:10:17 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[20/Jul/2014:10:11:33 +0200] Server.httpServe: SHUTDOWN
+[20/Jul/2014:10:11:33 +0200] Server.httpServe: BACKEND STOPPED
+[20/Jul/2014:10:24:46 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[20/Jul/2014:10:37:17 +0200] Server.httpServe: SHUTDOWN
+[20/Jul/2014:10:37:17 +0200] Server.httpServe: BACKEND STOPPED
+[20/Jul/2014:10:37:25 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[20/Jul/2014:18:47:49 +0200] Server.httpServe: SHUTDOWN
+[20/Jul/2014:18:47:49 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:03:52:37 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:17:14:32 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:17:14:32 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:17:14:41 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:17:42:56 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:17:42:56 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:17:48:59 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:01:19 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:01:19 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:01:27 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:02:14 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:02:14 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:02:15 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:03:51 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:03:51 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:03:52 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:05:48 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:05:48 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:05:48 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:07:23 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:07:23 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:07:24 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:07:58 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:07:58 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:08:39 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:08:59 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:08:59 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:09:00 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:09:12 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:09:12 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:09:13 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:09:25 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:09:25 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:09:26 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:10:42 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:10:42 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:10:43 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:16:52 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:16:52 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:16:53 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:17:31 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:17:31 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:17:32 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:19:05 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:19:05 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:19:05 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:19:33 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:19:33 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:19:33 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:20:09 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:20:09 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:20:10 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[21/Jul/2014:18:20:52 +0200] Server.httpServe: SHUTDOWN
+[21/Jul/2014:18:20:52 +0200] Server.httpServe: BACKEND STOPPED
+[21/Jul/2014:18:20:52 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:09:23 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:09:23 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:09:24 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:11:27 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:11:27 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:11:28 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:11:53 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:11:53 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:11:53 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:16:06 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:16:06 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:16:07 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:17:16 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:17:16 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:17:16 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:19:44 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:19:44 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:19:45 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:20:40 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:20:40 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:20:40 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:22:22 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:22:22 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:22:23 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:22:43 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:22:43 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:22:44 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:25:25 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:25:25 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:25:26 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:00:26:01 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:00:26:01 +0200] Server.httpServe: BACKEND STOPPED
+[22/Jul/2014:00:26:02 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8081/]
+[22/Jul/2014:02:49:50 +0200] Server.httpServe: SHUTDOWN
+[22/Jul/2014:02:49:50 +0200] Server.httpServe: BACKEND STOPPED
+[23/Jul/2014:04:23:27 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Jul/2014:04:24:43 +0200] Server.httpServe: SHUTDOWN
+[23/Jul/2014:04:24:43 +0200] Server.httpServe: BACKEND STOPPED
+[23/Jul/2014:04:41:15 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Jul/2014:05:35:12 +0200] Server.httpServe: SHUTDOWN
+[23/Jul/2014:05:35:12 +0200] Server.httpServe: BACKEND STOPPED
+[23/Jul/2014:05:35:12 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Jul/2014:05:35:14 +0200] Server.httpServe: SHUTDOWN
+[23/Jul/2014:05:35:14 +0200] Server.httpServe: BACKEND STOPPED
+[24/Jul/2014:19:10:14 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:13:38 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:17:45 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:01:17:45 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:01:17:46 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:23:36 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:01:23:36 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:01:25:20 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:28:10 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:01:28:10 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:01:28:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:29:32 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:01:29:32 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:01:29:32 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:29:53 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:01:29:53 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:01:29:54 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:01:33:15 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:01:33:15 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:01:33:16 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:19:18 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:04:19:18 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:04:19:18 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:19:19 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:04:19:19 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:04:38:48 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:39:08 +0200] During processing of request from 127.0.0.1:51825
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:51825\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/nmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=SNfx205RBHZA9AO8Z+z014w+3zexs6rOGqVIDCPqOODA1O833+YZMHIDzZLNpfuNsMFC5YI3i7r2RnV72zf/O7W76P8kPyEmu38DZ4qWoF2O/6CVuL/ozVckAdnl3bEjviqZUwgBJOehuSOeWvZrQiURTs/U27f3RkaCxR9S6e7WSnHS37pH+V5uqpH4L3BJgH26Vt87GupWrtA4rw98mR0eEfrsPflnPNRrHbbtyF8kfqyhSzrWt3q0FA/a\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"SNfx205RBHZA9AO8Z+z014w+3zexs6rOGqVIDCPqOODA1O833+YZMHIDzZLNpfuNsMFC5YI3i7r2RnV72zf/O7W76P8kPyEmu38DZ4qWoF2O/6CVuL/ozVckAdnl3bEjviqZUwgBJOehuSOeWvZrQiURTs/U27f3RkaCxR9S6e7WSnHS37pH+V5uqpH4L3BJgH26Vt87GupWrtA4rw98mR0eEfrsPflnPNRrHbbtyF8kfqyhSzrWt3q0FA/a\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nyear\n    contextpath: /\n    URI: /calendar/nyear\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (2014,12)
+[25/Jul/2014:04:43:20 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:04:43:20 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:04:43:50 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:44:09 +0200] During processing of request from 127.0.0.1:52220
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52220\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/pmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=BpAYszQ2SDEzpnMj8A2ANQztXM3aY1qRZYJ6zZAzc2cnL6uAr6mi+N8OjQcMWb4q5D2UIPbqPvisFfTe6e7AC+J/Uxu5TunCDU+T4Zq6OkqA//nIIrUTmDepol2cWIA2mj3Q8VJFGFAQkt+0JM9z9WE61XDCznN9mWMEN4O2tsR0cE6o3M6nOiHNDWhTyqnEPLdCGDu+BlKgM/T/b4FKSIl2Moc/CY/1kHE2jHqV15fycn9I0xdBCJ5UpPIa\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"BpAYszQ2SDEzpnMj8A2ANQztXM3aY1qRZYJ6zZAzc2cnL6uAr6mi+N8OjQcMWb4q5D2UIPbqPvisFfTe6e7AC+J/Uxu5TunCDU+T4Zq6OkqA//nIIrUTmDepol2cWIA2mj3Q8VJFGFAQkt+0JM9z9WE61XDCznN9mWMEN4O2tsR0cE6o3M6nOiHNDWhTyqnEPLdCGDu+BlKgM/T/b4FKSIl2Moc/CY/1kHE2jHqV15fycn9I0xdBCJ5UpPIa\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nyear\n    contextpath: /\n    URI: /calendar/nyear\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (2011,12)
+[25/Jul/2014:04:46:23 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:04:46:23 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:04:46:24 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:46:24 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:04:46:24 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:04:56:51 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:57:04 +0200] During processing of request from 127.0.0.1:52368
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52368\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/pmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=INV5aSHrfpt8U9dGC4hgIc3bAPJvdCX8Rx8vr6vyunZlxBGjHWjJLRTphYKnWx27iEmkmJOT24uQbv3g2Hva4ewI3u/GqQhpAhS75YqvpL4e7x4ukCeJSUlt1/KsoM+DkkQCks+DI7hgvl6fLyHQKGbFQgWOSE1acH182LyI0ytFPUEEa8Ly3Mhz3B2Fv71tbkjJjM1ZjOLU274pI+nSQ46h/ShnM63sQspIs84xLQ4pLB83Z3O8isHjU/1y\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"INV5aSHrfpt8U9dGC4hgIc3bAPJvdCX8Rx8vr6vyunZlxBGjHWjJLRTphYKnWx27iEmkmJOT24uQbv3g2Hva4ewI3u/GqQhpAhS75YqvpL4e7x4ukCeJSUlt1/KsoM+DkkQCks+DI7hgvl6fLyHQKGbFQgWOSE1acH182LyI0ytFPUEEa8Ly3Mhz3B2Fv71tbkjJjM1ZjOLU274pI+nSQ46h/ShnM63sQspIs84xLQ4pLB83Z3O8isHjU/1y\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nyear\n    contextpath: /\n    URI: /calendar/nyear\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (2012,12)
+[25/Jul/2014:04:58:10 +0200] During processing of request from 127.0.0.1:52419
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52419\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/pmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=INV5aSHrfpt8U9dGC4hgIc3bAPJvdCX8Rx8vr6vyunZlxBGjHWjJLRTphYKnWx27iEmkmJOT24uQbv3g2Hva4ewI3u/GqQhpAhS75YqvpL4e7x4ukCeJSUlt1/KsoM+DkkQCks+DI7hgvl6fLyHQKGbFQgWOSE1acH182LyI0ytFPUEEa8Ly3Mhz3B2Fv71tbkjJjM1ZjOLU274pI+nSQ46h/ShnM63sQspIs84xLQ4pLB83Z3O8isHjU/1y\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"INV5aSHrfpt8U9dGC4hgIc3bAPJvdCX8Rx8vr6vyunZlxBGjHWjJLRTphYKnWx27iEmkmJOT24uQbv3g2Hva4ewI3u/GqQhpAhS75YqvpL4e7x4ukCeJSUlt1/KsoM+DkkQCks+DI7hgvl6fLyHQKGbFQgWOSE1acH182LyI0ytFPUEEa8Ly3Mhz3B2Fv71tbkjJjM1ZjOLU274pI+nSQ46h/ShnM63sQspIs84xLQ4pLB83Z3O8isHjU/1y\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nyear\n    contextpath: /\n    URI: /calendar/nyear\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (2012,12)
+[25/Jul/2014:04:58:14 +0200] During processing of request from 127.0.0.1:52419
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52419\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/nmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=DVC4/fwAdsL+uBig8MwpQh5jDc6IKG/HhJ9GTFK8TLPCRvcmZvz/2CeRvyi6ylYsPZIJ4Fp+soVbEwYUQzV9w90Iv61pxW7Qj9WNF6hCjNmks4hsG7YhrHAjntOhIUdu/zMXn0yw5tFmlOZhEbzdQ4DjMwETjg0lyvZ3141616uYZqrz9tUYK0h/fFbc48iJv3L5fPBxPkSjYzg47kJgLbKs1ughyhhOHTK3bKCjne4bLas7gNAB6mc3A+z4Iw==\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"DVC4/fwAdsL+uBig8MwpQh5jDc6IKG/HhJ9GTFK8TLPCRvcmZvz/2CeRvyi6ylYsPZIJ4Fp+soVbEwYUQzV9w90Iv61pxW7Qj9WNF6hCjNmks4hsG7YhrHAjntOhIUdu/zMXn0yw5tFmlOZhEbzdQ4DjMwETjg0lyvZ3141616uYZqrz9tUYK0h/fFbc48iJv3L5fPBxPkSjYzg47kJgLbKs1ughyhhOHTK3bKCjne4bLas7gNAB6mc3A+z4Iw==\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nmonth\n    contextpath: /\n    URI: /calendar/nmonth\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (12,12)
+[25/Jul/2014:04:58:27 +0200] During processing of request from 127.0.0.1:52419
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52419\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/pmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=wXUIoqpK7A/X0rnUR9mS5EB5bZm4Gd9gOpyquWI2Yz0DOHQZS4rpg0XKW+IOc6xVMzez4lo2Kqv1MgnT/+Y5GCXOzal/ZUgmuJHget8b8WRXrvUcpg2dymBGjVlfRuoVvpWlo8AsG3RnFoOs3ice+giva1snyY0PD/g6QQgN/wBt+RdcFPsXliAA5E6WDHCLEnwJAuwPHt0i16ajeZPKebH4JE5ds7hDocDjwJSKvfE8k15QNkCc2eGJJsdN\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"wXUIoqpK7A/X0rnUR9mS5EB5bZm4Gd9gOpyquWI2Yz0DOHQZS4rpg0XKW+IOc6xVMzez4lo2Kqv1MgnT/+Y5GCXOzal/ZUgmuJHget8b8WRXrvUcpg2dymBGjVlfRuoVvpWlo8AsG3RnFoOs3ice+giva1snyY0PD/g6QQgN/wBt+RdcFPsXliAA5E6WDHCLEnwJAuwPHt0i16ajeZPKebH4JE5ds7hDocDjwJSKvfE8k15QNkCc2eGJJsdN\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/pmonth\n    contextpath: /\n    URI: /calendar/pmonth\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (-1,12)
+[25/Jul/2014:04:58:30 +0200] During processing of request from 127.0.0.1:52419
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52419\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/pyear\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=wXUIoqpK7A/X0rnUR9mS5EB5bZm4Gd9gOpyquWI2Yz0DOHQZS4rpg0XKW+IOc6xVMzez4lo2Kqv1MgnT/+Y5GCXOzal/ZUgmuJHget8b8WRXrvUcpg2dymBGjVlfRuoVvpWlo8AsG3RnFoOs3ice+giva1snyY0PD/g6QQgN/wBt+RdcFPsXliAA5E6WDHCLEnwJAuwPHt0i16ajeZPKebH4JE5ds7hDocDjwJSKvfE8k15QNkCc2eGJJsdN\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"wXUIoqpK7A/X0rnUR9mS5EB5bZm4Gd9gOpyquWI2Yz0DOHQZS4rpg0XKW+IOc6xVMzez4lo2Kqv1MgnT/+Y5GCXOzal/ZUgmuJHget8b8WRXrvUcpg2dymBGjVlfRuoVvpWlo8AsG3RnFoOs3ice+giva1snyY0PD/g6QQgN/wBt+RdcFPsXliAA5E6WDHCLEnwJAuwPHt0i16ajeZPKebH4JE5ds7hDocDjwJSKvfE8k15QNkCc2eGJJsdN\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nyear\n    contextpath: /\n    URI: /calendar/nyear\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (1989,12)
+[25/Jul/2014:04:58:33 +0200] During processing of request from 127.0.0.1:52419
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52419\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/pyear\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=wXUIoqpK7A/X0rnUR9mS5EB5bZm4Gd9gOpyquWI2Yz0DOHQZS4rpg0XKW+IOc6xVMzez4lo2Kqv1MgnT/+Y5GCXOzal/ZUgmuJHget8b8WRXrvUcpg2dymBGjVlfRuoVvpWlo8AsG3RnFoOs3ice+giva1snyY0PD/g6QQgN/wBt+RdcFPsXliAA5E6WDHCLEnwJAuwPHt0i16ajeZPKebH4JE5ds7hDocDjwJSKvfE8k15QNkCc2eGJJsdN\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"wXUIoqpK7A/X0rnUR9mS5EB5bZm4Gd9gOpyquWI2Yz0DOHQZS4rpg0XKW+IOc6xVMzez4lo2Kqv1MgnT/+Y5GCXOzal/ZUgmuJHget8b8WRXrvUcpg2dymBGjVlfRuoVvpWlo8AsG3RnFoOs3ice+giva1snyY0PD/g6QQgN/wBt+RdcFPsXliAA5E6WDHCLEnwJAuwPHt0i16ajeZPKebH4JE5ds7hDocDjwJSKvfE8k15QNkCc2eGJJsdN\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nyear\n    contextpath: /\n    URI: /calendar/nyear\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (1989,12)
+[25/Jul/2014:04:58:56 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:04:58:56 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:04:59:30 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:04:59:47 +0200] During processing of request from 127.0.0.1:52421
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:52421\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar/nmonth\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=PdO+Z1ygw35YkdqRJYGicZvCcnZWYVOdyzBsy4M/v5u6geThxzOhWSDz1CKh5kLWM1XQ8BWswwKiwL3+E2F7wkszjP1ExuYT2RkavSw4PF8g7OD/09sTFpc6B9FDDPCPeBz+ID4a0gmOlC/0MCMfYL99jyEQHDUWBUsvJKtoirTzQ6tfotMSIijQ4WuQgqcrSspd7jxdjSavwMNJgHqmCOhH+S3XUvk2LhJOnVsTtZrTQi4nvQ+kHOBPMw2Bow==\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"PdO+Z1ygw35YkdqRJYGicZvCcnZWYVOdyzBsy4M/v5u6geThxzOhWSDz1CKh5kLWM1XQ8BWswwKiwL3+E2F7wkszjP1ExuYT2RkavSw4PF8g7OD/09sTFpc6B9FDDPCPeBz+ID4a0gmOlC/0MCMfYL99jyEQHDUWBUsvJKtoirTzQ6tfotMSIijQ4WuQgqcrSspd7jxdjSavwMNJgHqmCOhH+S3XUvk2LhJOnVsTtZrTQi4nvQ+kHOBPMw2Bow==\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar/nmonth\n    contextpath: /\n    URI: /calendar/nmonth\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (12,12)
+[25/Jul/2014:06:05:16 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:06:05:16 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:06:05:17 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:06:05:18 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:06:05:18 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:06:07:46 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:06:11:45 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:06:11:45 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:06:11:59 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:06:46:42 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:06:46:42 +0200] Server.httpServe: BACKEND STOPPED
+[25/Jul/2014:06:46:43 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[25/Jul/2014:17:35:05 +0200] Server.httpServe: SHUTDOWN
+[25/Jul/2014:17:35:05 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:04:10:52 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:04:12:03 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:04:12:03 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:04:12:37 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:04:12:45 +0200] During processing of request from 127.0.0.1:43452
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43452\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/calendar\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=pelfgn0UF6IXX3i6hlXGLA3qgbJmCE3n1xLohVj8grEE5PxmZ76E5auOixHyHYqW4pVr0Obu72RV+NA2jZA3Lo4JX1h9qgGc1QfddHAL2MW59HkUyvDvZt7AYejFs4gSsLXf00FQBmZrUeGCM3teYcEKMemE6NteVLikdiWsclkrazQ3G+5wzOOeordWLNwXH6kNvOF8pkYzcoB74IzxoS/w979/JQmYhl/VaQYl2ynyS+QQmM0UiuPWVK1K\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"pelfgn0UF6IXX3i6hlXGLA3qgbJmCE3n1xLohVj8grEE5PxmZ76E5auOixHyHYqW4pVr0Obu72RV+NA2jZA3Lo4JX1h9qgGc1QfddHAL2MW59HkUyvDvZt7AYejFs4gSsLXf00FQBmZrUeGCM3teYcEKMemE6NteVLikdiWsclkrazQ3G+5wzOOeordWLNwXH6kNvOF8pkYzcoB74IzxoS/w979/JQmYhl/VaQYl2ynyS+QQmM0UiuPWVK1K\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: add_event\n    contextpath: /\n    URI: /add_event\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+Text.Digestive.View.subView: No such subView: Date
+[26/Jul/2014:04:20:34 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:04:20:34 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:04:21:29 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:04:22:25 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:04:22:25 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:04:22:27 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:04:25:10 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:04:25:10 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:04:25:20 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:04:26:37 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:04:26:37 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:04:26:47 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:04:34:56 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:04:34:56 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:05:23:48 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:05:25:55 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:05:25:55 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:05:25:55 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:05:26:49 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:05:26:49 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:05:26:49 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:05:40:30 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:05:40:30 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:07:10:41 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:16:20:21 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:16:20:21 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:16:20:23 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:16:20:24 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:16:20:24 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:08:49 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:08:51 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:08:51 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:10:04 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:10:59 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:10:59 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:11:01 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:11:47 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:11:47 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:12:00 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:13:00 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:13:00 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:13:01 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:13:02 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:13:02 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:13:10 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:27:52 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:27:52 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:27:53 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:27:54 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:27:54 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:28:34 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[26/Jul/2014:22:30:01 +0200] Server.httpServe: SHUTDOWN
+[26/Jul/2014:22:30:01 +0200] Server.httpServe: BACKEND STOPPED
+[26/Jul/2014:22:36:04 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:00:30:51 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:00:30:51 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:00:41:05 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:00:47:38 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:00:47:38 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:00:47:40 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:00:48:06 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:00:48:06 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:00:48:08 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:00:49:03 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:00:49:03 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:00:49:12 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:00:58:21 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:00:58:21 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:00:58:22 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:00:58:22 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:00:58:22 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:01:04:42 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:03:06:10 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:03:06:10 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:03:06:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:03:06:12 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:03:06:12 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:03:06:40 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:04:33:35 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:04:33:35 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:04:53:25 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:04:54:04 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:04:54:04 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:13:25:03 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:13:25:31 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:13:25:31 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:13:37:14 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:13:39:16 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:13:39:16 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:13:39:52 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:17:49:32 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:17:49:32 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:17:50:18 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:17:51:50 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:17:51:50 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:17:52:00 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:17:53:39 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:17:53:39 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:17:53:48 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[27/Jul/2014:17:54:19 +0200] Server.httpServe: SHUTDOWN
+[27/Jul/2014:17:54:19 +0200] Server.httpServe: BACKEND STOPPED
+[27/Jul/2014:17:54:33 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[28/Jul/2014:01:51:23 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[28/Jul/2014:01:53:49 +0200] During processing of request from 127.0.0.1:59838
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:59838\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/add_event\n Cache-Control: max-age=0\n Content-Length: 174\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Origin: http://localhost:8000\n Cookie: sess=6+M9HNvTJvaz/r0SDKXY7yBQwRl6hXWqHlB8F18opDh7N+sMoPKw5oYVBMDyYSO0go4zjlypBqzqdyBYfgt4ri/8WVonST35m1HepjTKG8bt/FAtnAQ9dYIoiUobiGoNW/lE/34pYZDifo0KKKOvhv9Y008bs7Pm/P0xnsG5DjNpc6uUrCkpKbPNvY6RXMZziJjolNgWkFpSflVT/dP20QZIk+2AOGpJpgw7S7Q29qJ/baY+qwBnGl/CHfon\n Connection: keep-alive\n Content-Type: application/x-www-form-urlencoded\n      ========================================\n    content-length: Just 174\n    method: POST\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"6+M9HNvTJvaz/r0SDKXY7yBQwRl6hXWqHlB8F18opDh7N+sMoPKw5oYVBMDyYSO0go4zjlypBqzqdyBYfgt4ri/8WVonST35m1HepjTKG8bt/FAtnAQ9dYIoiUobiGoNW/lE/34pYZDifo0KKKOvhv9Y008bs7Pm/P0xnsG5DjNpc6uUrCkpKbPNvY6RXMZziJjolNgWkFpSflVT/dP20QZIk+2AOGpJpgw7S7Q29qJ/baY+qwBnGl/CHfon\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: add_event\n    contextpath: /\n    URI: /add_event\n    params:\n      ========================================\n      eventform.date.day: [\"15\"]\n eventform.date.month: [\"8\"]\n eventform.date.year: [\"2014\"]\n eventform.repeat: [\"eventform.repeat.0\"]\n eventform.time.hour: [\"9\"]\n eventform.time.minutes: [\"30\"]\n eventform.title: [\"Exam\"]\n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42P01", sqlExecStatus = FatalError, sqlErrorMsg = "relation \"projects\" does not exist", sqlErrorDetail = "", sqlErrorHint = ""}
+[28/Jul/2014:01:58:00 +0200] Server.httpServe: SHUTDOWN
+[28/Jul/2014:01:58:00 +0200] Server.httpServe: BACKEND STOPPED
+[28/Jul/2014:01:58:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[28/Jul/2014:01:58:16 +0200] During processing of request from 127.0.0.1:59927
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:59927\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/add_event\n Cache-Control: max-age=0\n Content-Length: 174\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Origin: http://localhost:8000\n Cookie: sess=6+M9HNvTJvaz/r0SDKXY7yBQwRl6hXWqHlB8F18opDh7N+sMoPKw5oYVBMDyYSO0go4zjlypBqzqdyBYfgt4ri/8WVonST35m1HepjTKG8bt/FAtnAQ9dYIoiUobiGoNW/lE/34pYZDifo0KKKOvhv9Y008bs7Pm/P0xnsG5DjNpc6uUrCkpKbPNvY6RXMZziJjolNgWkFpSflVT/dP20QZIk+2AOGpJpgw7S7Q29qJ/baY+qwBnGl/CHfon\n Connection: keep-alive\n Content-Type: application/x-www-form-urlencoded\n      ========================================\n    content-length: Just 174\n    method: POST\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"6+M9HNvTJvaz/r0SDKXY7yBQwRl6hXWqHlB8F18opDh7N+sMoPKw5oYVBMDyYSO0go4zjlypBqzqdyBYfgt4ri/8WVonST35m1HepjTKG8bt/FAtnAQ9dYIoiUobiGoNW/lE/34pYZDifo0KKKOvhv9Y008bs7Pm/P0xnsG5DjNpc6uUrCkpKbPNvY6RXMZziJjolNgWkFpSflVT/dP20QZIk+2AOGpJpgw7S7Q29qJ/baY+qwBnGl/CHfon\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: add_event\n    contextpath: /\n    URI: /add_event\n    params:\n      ========================================\n      eventform.date.day: [\"15\"]\n eventform.date.month: [\"8\"]\n eventform.date.year: [\"2014\"]\n eventform.repeat: [\"eventform.repeat.0\"]\n eventform.time.hour: [\"9\"]\n eventform.time.minutes: [\"30\"]\n eventform.title: [\"Exam\"]\n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42601", sqlExecStatus = FatalError, sqlErrorMsg = "INSERT has more expressions than target columns", sqlErrorDetail = "", sqlErrorHint = ""}
+[28/Jul/2014:01:59:04 +0200] Server.httpServe: SHUTDOWN
+[28/Jul/2014:01:59:04 +0200] Server.httpServe: BACKEND STOPPED
+[28/Jul/2014:02:02:05 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[28/Jul/2014:02:12:06 +0200] Server.httpServe: SHUTDOWN
+[28/Jul/2014:02:12:06 +0200] Server.httpServe: BACKEND STOPPED
+[28/Jul/2014:04:26:10 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[28/Jul/2014:04:30:43 +0200] Server.httpServe: SHUTDOWN
+[28/Jul/2014:04:30:43 +0200] Server.httpServe: BACKEND STOPPED
+[28/Jul/2014:04:30:53 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[28/Jul/2014:05:33:39 +0200] During processing of request from 127.0.0.1:36789
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:36789\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/add_event\n Cache-Control: max-age=0\n Content-Length: 176\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Origin: http://localhost:8000\n Cookie: sess=Gb/28euNQuKzueo4t1xrACdSmqTvM2KfbFad+BruoP6/Vts7/ZD0Vd4TYE79Xb6gAWHw0brjpkNZSHwN9LNRcEi3lQXOyhcaLm5AYixyy7deGXuRxPE4xpFcjg35Z2yampVD9bxt/mSaDG83dt07rmjMbxUtbHE5OEeGoTCboEGJVIwlkqNwBVSrPwdy8otDI3mExiZvCMQbeJQvVpp4PD+NmjoyZwQl/f6uSAaTE/nsiA3dOc0bQ2VYRbEP\n Connection: keep-alive\n Content-Type: application/x-www-form-urlencoded\n      ========================================\n    content-length: Just 176\n    method: POST\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"Gb/28euNQuKzueo4t1xrACdSmqTvM2KfbFad+BruoP6/Vts7/ZD0Vd4TYE79Xb6gAWHw0brjpkNZSHwN9LNRcEi3lQXOyhcaLm5AYixyy7deGXuRxPE4xpFcjg35Z2yampVD9bxt/mSaDG83dt07rmjMbxUtbHE5OEeGoTCboEGJVIwlkqNwBVSrPwdy8otDI3mExiZvCMQbeJQvVpp4PD+NmjoyZwQl/f6uSAaTE/nsiA3dOc0bQ2VYRbEP\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: add_event\n    contextpath: /\n    URI: /add_event\n    params:\n      ========================================\n      eventform.date.day: [\"28\"]\n eventform.date.month: [\"7\"]\n eventform.date.year: [\"2014\"]\n eventform.repeat: [\"eventform.repeat.1\"]\n eventform.time.hour: [\"10\"]\n eventform.time.minutes: [\"10\"]\n eventform.title: [\"Event\"]\n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "23502", sqlExecStatus = FatalError, sqlErrorMsg = "null value in column \"username\" violates not-null constraint", sqlErrorDetail = "", sqlErrorHint = ""}
+[28/Jul/2014:05:33:48 +0200] During processing of request from 127.0.0.1:36789
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:36789\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/add_event\n Cache-Control: max-age=0\n Content-Length: 176\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Origin: http://localhost:8000\n Cookie: sess=Gb/28euNQuKzueo4t1xrACdSmqTvM2KfbFad+BruoP6/Vts7/ZD0Vd4TYE79Xb6gAWHw0brjpkNZSHwN9LNRcEi3lQXOyhcaLm5AYixyy7deGXuRxPE4xpFcjg35Z2yampVD9bxt/mSaDG83dt07rmjMbxUtbHE5OEeGoTCboEGJVIwlkqNwBVSrPwdy8otDI3mExiZvCMQbeJQvVpp4PD+NmjoyZwQl/f6uSAaTE/nsiA3dOc0bQ2VYRbEP\n Connection: keep-alive\n Content-Type: application/x-www-form-urlencoded\n      ========================================\n    content-length: Just 176\n    method: POST\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"Gb/28euNQuKzueo4t1xrACdSmqTvM2KfbFad+BruoP6/Vts7/ZD0Vd4TYE79Xb6gAWHw0brjpkNZSHwN9LNRcEi3lQXOyhcaLm5AYixyy7deGXuRxPE4xpFcjg35Z2yampVD9bxt/mSaDG83dt07rmjMbxUtbHE5OEeGoTCboEGJVIwlkqNwBVSrPwdy8otDI3mExiZvCMQbeJQvVpp4PD+NmjoyZwQl/f6uSAaTE/nsiA3dOc0bQ2VYRbEP\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: add_event\n    contextpath: /\n    URI: /add_event\n    params:\n      ========================================\n      eventform.date.day: [\"28\"]\n eventform.date.month: [\"7\"]\n eventform.date.year: [\"2014\"]\n eventform.repeat: [\"eventform.repeat.1\"]\n eventform.time.hour: [\"10\"]\n eventform.time.minutes: [\"10\"]\n eventform.title: [\"Event\"]\n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "23502", sqlExecStatus = FatalError, sqlErrorMsg = "null value in column \"username\" violates not-null constraint", sqlErrorDetail = "", sqlErrorHint = ""}
+[28/Jul/2014:05:39:09 +0200] Server.httpServe: SHUTDOWN
+[28/Jul/2014:05:39:09 +0200] Server.httpServe: BACKEND STOPPED
+[28/Jul/2014:18:43:46 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[22/Aug/2014:07:12:13 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[22/Aug/2014:07:12:23 +0200] During processing of request from 127.0.0.1:41273
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41273\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=nTHjo5hwQi+4hJfbCLVRSe4h1q8Ab/z0iwPb3/2AYHnSwWwNC7EH/ap2FBQ/trl+9Y/FOQLu4x+UJjb0hv1ZnnvpdfI+EAh2dcgjxhR4+lr98/a5MnW8JEPKDBX86pjrDsoKKiQvxCxbIe/tXUQjhRtZkJ7p9+z+RsjSiLdBMdNhpRs/7v+8/SpPy+Q4WoGxhSlyH8GRmpvofJTE++exUWrhqt16hi2/Z9u0kSXRy1loPFuDLYz01Wlyvwus\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"nTHjo5hwQi+4hJfbCLVRSe4h1q8Ab/z0iwPb3/2AYHnSwWwNC7EH/ap2FBQ/trl+9Y/FOQLu4x+UJjb0hv1ZnnvpdfI+EAh2dcgjxhR4+lr98/a5MnW8JEPKDBX86pjrDsoKKiQvxCxbIe/tXUQjhRtZkJ7p9+z+RsjSiLdBMdNhpRs/7v+8/SpPy+Q4WoGxhSlyH8GRmpvofJTE++exUWrhqt16hi2/Z9u0kSXRy1loPFuDLYz01Wlyvwus\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[22/Aug/2014:07:13:59 +0200] Server.httpServe: SHUTDOWN
+[22/Aug/2014:07:13:59 +0200] Server.httpServe: BACKEND STOPPED
+[22/Aug/2014:07:13:59 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[22/Aug/2014:07:14:05 +0200] During processing of request from 127.0.0.1:41368
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:41368\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=TzQEmOFXDwAjVKvEzFR7BwY7l6Xu8OvU3tAyItH4GgwiO6hccKtRaaWOCcPu6p0wHty0YBm81C7ysq4n+uMQmmVQioz7va/jooDXlZIl5ArTclkb9zzzcch7RcF/nbTc1ZJKzbEQFVvcLKFlWyd+wBL6HuWveMj4cN9ItOwK15evaJAZSld1f7YaXHPqIqHDc4uA0ED5WWHBZWk2UBgYqAEX4XfSZ39bOST0CosxU18+YODvl8TauGemqm0B\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"TzQEmOFXDwAjVKvEzFR7BwY7l6Xu8OvU3tAyItH4GgwiO6hccKtRaaWOCcPu6p0wHty0YBm81C7ysq4n+uMQmmVQioz7va/jooDXlZIl5ArTclkb9zzzcch7RcF/nbTc1ZJKzbEQFVvcLKFlWyd+wBL6HuWveMj4cN9ItOwK15evaJAZSld1f7YaXHPqIqHDc4uA0ED5WWHBZWk2UBgYqAEX4XfSZ39bOST0CosxU18+YODvl8TauGemqm0B\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:01:10:14 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:01:10:19 +0200] During processing of request from 127.0.0.1:37089
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:37089\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=xWiqJTnKE/DvYEiMPJh9gHxD73xULBHr35LoVNbVw4YTfzjq7Qe5v2sXxhFhhRi20+dcqGMSqH9Av9uG+ej9vfH3lvPrniF+gyqtgAZEesGBnhkSJ12WatSFIEK3Em4OT8gwAlbna+y7dREhmFw8/DvC4BLVWESCL5SFqRsKgSBpsa+z4Q0ZHVX8n/9WwK7LLsvdGbIEYNBOLXfphQMzT7ep9On/cl8BwnmLHL0MjvSpFg6RlfpWjV7UBMRk\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"xWiqJTnKE/DvYEiMPJh9gHxD73xULBHr35LoVNbVw4YTfzjq7Qe5v2sXxhFhhRi20+dcqGMSqH9Av9uG+ej9vfH3lvPrniF+gyqtgAZEesGBnhkSJ12WatSFIEK3Em4OT8gwAlbna+y7dREhmFw8/DvC4BLVWESCL5SFqRsKgSBpsa+z4Q0ZHVX8n/9WwK7LLsvdGbIEYNBOLXfphQMzT7ep9On/cl8BwnmLHL0MjvSpFg6RlfpWjV7UBMRk\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:01:14:47 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:01:14:47 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:02:53:17 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:02:53:23 +0200] During processing of request from 127.0.0.1:42017
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42017\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=iPDzdBGo39hovOR+KJRlhsosxqsz5tPmXLRPq9M6ruvLJXWQFWyh9kPNXx0da4RTjwmDnfRnEnzzBRg5FHEWbgZjh95Y3y31KPxga75jIxuWHEvPtzvz0zMJJY0DKyRL6csnpQhFx/iY21Ajnfrfi89WcHNjH+9pUkmoYT/uLYzqWeXPQKvy7KJqJjvGUYtTMh8tbGmJwKoHwLG6d93sAEoexgHkZFIS1PYh4J04YIIpU5CeKm9vPgZXWQnv\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"iPDzdBGo39hovOR+KJRlhsosxqsz5tPmXLRPq9M6ruvLJXWQFWyh9kPNXx0da4RTjwmDnfRnEnzzBRg5FHEWbgZjh95Y3y31KPxga75jIxuWHEvPtzvz0zMJJY0DKyRL6csnpQhFx/iY21Ajnfrfi89WcHNjH+9pUkmoYT/uLYzqWeXPQKvy7KJqJjvGUYtTMh8tbGmJwKoHwLG6d93sAEoexgHkZFIS1PYh4J04YIIpU5CeKm9vPgZXWQnv\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:03:14:12 +0200] During processing of request from 127.0.0.1:42669
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42669\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=iPDzdBGo39hovOR+KJRlhsosxqsz5tPmXLRPq9M6ruvLJXWQFWyh9kPNXx0da4RTjwmDnfRnEnzzBRg5FHEWbgZjh95Y3y31KPxga75jIxuWHEvPtzvz0zMJJY0DKyRL6csnpQhFx/iY21Ajnfrfi89WcHNjH+9pUkmoYT/uLYzqWeXPQKvy7KJqJjvGUYtTMh8tbGmJwKoHwLG6d93sAEoexgHkZFIS1PYh4J04YIIpU5CeKm9vPgZXWQnv\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"iPDzdBGo39hovOR+KJRlhsosxqsz5tPmXLRPq9M6ruvLJXWQFWyh9kPNXx0da4RTjwmDnfRnEnzzBRg5FHEWbgZjh95Y3y31KPxga75jIxuWHEvPtzvz0zMJJY0DKyRL6csnpQhFx/iY21Ajnfrfi89WcHNjH+9pUkmoYT/uLYzqWeXPQKvy7KJqJjvGUYtTMh8tbGmJwKoHwLG6d93sAEoexgHkZFIS1PYh4J04YIIpU5CeKm9vPgZXWQnv\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:03:14:13 +0200] During processing of request from 127.0.0.1:42669
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42669\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=iPDzdBGo39hovOR+KJRlhsosxqsz5tPmXLRPq9M6ruvLJXWQFWyh9kPNXx0da4RTjwmDnfRnEnzzBRg5FHEWbgZjh95Y3y31KPxga75jIxuWHEvPtzvz0zMJJY0DKyRL6csnpQhFx/iY21Ajnfrfi89WcHNjH+9pUkmoYT/uLYzqWeXPQKvy7KJqJjvGUYtTMh8tbGmJwKoHwLG6d93sAEoexgHkZFIS1PYh4J04YIIpU5CeKm9vPgZXWQnv\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"iPDzdBGo39hovOR+KJRlhsosxqsz5tPmXLRPq9M6ruvLJXWQFWyh9kPNXx0da4RTjwmDnfRnEnzzBRg5FHEWbgZjh95Y3y31KPxga75jIxuWHEvPtzvz0zMJJY0DKyRL6csnpQhFx/iY21Ajnfrfi89WcHNjH+9pUkmoYT/uLYzqWeXPQKvy7KJqJjvGUYtTMh8tbGmJwKoHwLG6d93sAEoexgHkZFIS1PYh4J04YIIpU5CeKm9vPgZXWQnv\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:03:14:15 +0200] During processing of request from 127.0.0.1:42669
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42669\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=UqlzQbaYBq96jouvChR8jm/FggJmqkbTJ4T++iKoXVpnlw77Fk7evfSNI9UacycV20GmAR2XIR1XGGylYg3edcy+lCt6S1vq2/t7XaOOINZfspM4Q+/MNslhat+DxTdKpzFDHSeg05w9zpwhjfF+WAwmlG5Q6+xpKUAfBy4iF8ispEsuO4v1xL8Wx0rYAbbet4KOntsmUths47IJeW/ETJYRzpntKfh92BnB0SWbMhGxeukT7GgTmkYzHYmC\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"UqlzQbaYBq96jouvChR8jm/FggJmqkbTJ4T++iKoXVpnlw77Fk7evfSNI9UacycV20GmAR2XIR1XGGylYg3edcy+lCt6S1vq2/t7XaOOINZfspM4Q+/MNslhat+DxTdKpzFDHSeg05w9zpwhjfF+WAwmlG5Q6+xpKUAfBy4iF8ispEsuO4v1xL8Wx0rYAbbet4KOntsmUths47IJeW/ETJYRzpntKfh92BnB0SWbMhGxeukT7GgTmkYzHYmC\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:03:16:55 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:16:55 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:16:55 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:16:58 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:16:58 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:17:24 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:17:27 +0200] During processing of request from 127.0.0.1:42739
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42739\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=UqlzQbaYBq96jouvChR8jm/FggJmqkbTJ4T++iKoXVpnlw77Fk7evfSNI9UacycV20GmAR2XIR1XGGylYg3edcy+lCt6S1vq2/t7XaOOINZfspM4Q+/MNslhat+DxTdKpzFDHSeg05w9zpwhjfF+WAwmlG5Q6+xpKUAfBy4iF8ispEsuO4v1xL8Wx0rYAbbet4KOntsmUths47IJeW/ETJYRzpntKfh92BnB0SWbMhGxeukT7GgTmkYzHYmC\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"UqlzQbaYBq96jouvChR8jm/FggJmqkbTJ4T++iKoXVpnlw77Fk7evfSNI9UacycV20GmAR2XIR1XGGylYg3edcy+lCt6S1vq2/t7XaOOINZfspM4Q+/MNslhat+DxTdKpzFDHSeg05w9zpwhjfF+WAwmlG5Q6+xpKUAfBy4iF8ispEsuO4v1xL8Wx0rYAbbet4KOntsmUths47IJeW/ETJYRzpntKfh92BnB0SWbMhGxeukT7GgTmkYzHYmC\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (1,0)
+[23/Aug/2014:03:17:31 +0200] During processing of request from 127.0.0.1:42739
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42739\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=Hnt9iA/rJg/69EJxkuTfOIxNEYBMuOY24UEKWM54dwa2JSt2IX3xW41Z0pvZf92H50WPDz/i8Az3nZCwh7Csb6lLVCORO1ixPyIDX+eGw9Pxa7Bj824N7DxhqK2Mrh7MAlvkDfes2edUrayDGnGkOSpAXvZLrw6S0GsSOq9AMJdLFou2AWiMp3nE2bamriEXNeD0pfRoH0P4VYuqmDq3ZzRV9s9ANbjLVcF1iXqcA9smhPXXUsJ60PT1YBEX\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"Hnt9iA/rJg/69EJxkuTfOIxNEYBMuOY24UEKWM54dwa2JSt2IX3xW41Z0pvZf92H50WPDz/i8Az3nZCwh7Csb6lLVCORO1ixPyIDX+eGw9Pxa7Bj824N7DxhqK2Mrh7MAlvkDfes2edUrayDGnGkOSpAXvZLrw6S0GsSOq9AMJdLFou2AWiMp3nE2bamriEXNeD0pfRoH0P4VYuqmDq3ZzRV9s9ANbjLVcF1iXqcA9smhPXXUsJ60PT1YBEX\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (1,0)
+[23/Aug/2014:03:18:34 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:18:34 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:25:59 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:26:55 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:26:55 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:26:56 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:26:58 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:26:58 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:27:09 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:27:17 +0200] During processing of request from 127.0.0.1:42818
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:42818\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=owleeTfSOgSbereBB2YqtmN+/nSK+6Hp+s1xZxIaIOt6i6JN7IPPynsjzs53Nh1FTYgPJGD4JuDAKSxF2S903xXcAEftM/bimU/v2kv3d53M+yGDVUiEXgVvrHtA1+HSpzdAWgBvTw03CxS0vjmDj5QF1hH2BDupfZq7jY7jNrXq6VrH9EBulNT9tYjFVrl86HCFI0Hq79W5n23zRyy91uIfjn7T9ClrQznzqi3+OP+cS1XWnGCdEY+Zi8i1\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"owleeTfSOgSbereBB2YqtmN+/nSK+6Hp+s1xZxIaIOt6i6JN7IPPynsjzs53Nh1FTYgPJGD4JuDAKSxF2S903xXcAEftM/bimU/v2kv3d53M+yGDVUiEXgVvrHtA1+HSpzdAWgBvTw03CxS0vjmDj5QF1hH2BDupfZq7jY7jNrXq6VrH9EBulNT9tYjFVrl86HCFI0Hq79W5n23zRyy91uIfjn7T9ClrQznzqi3+OP+cS1XWnGCdEY+Zi8i1\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42883", sqlExecStatus = FatalError, sqlErrorMsg = "operator does not exist: text = integer", sqlErrorDetail = "", sqlErrorHint = "No operator matches the given name and argument type(s). You might need to add explicit type casts."}
+[23/Aug/2014:03:41:18 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:41:18 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:41:29 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:42:07 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:42:07 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:42:18 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:42:20 +0200] During processing of request from 127.0.0.1:43350
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43350\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=hGhsblr2l+WYtUZoMNyV6V5LCyTtdFAuTT/UgOubNZLVkDjZZhGBabERy5ZfJZej4WhkiIHm0fdQcTZWLWEPBMyDG7i0vy599X6XnAzBlDsINYLLSOQTYXiwKibLP2XddR0XPXjvb7sGEcYNFheFCvrRe784jDjbFLlZWLtvY7LufZxovsWx8PdxPWhWyuIaDH02JH+qk5wq+YToHlHKMuoCBoX6CoJZwjN6ih8/ICFxIkHHz6XxwLqCJxp+\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"hGhsblr2l+WYtUZoMNyV6V5LCyTtdFAuTT/UgOubNZLVkDjZZhGBabERy5ZfJZej4WhkiIHm0fdQcTZWLWEPBMyDG7i0vy599X6XnAzBlDsINYLLSOQTYXiwKibLP2XddR0XPXjvb7sGEcYNFheFCvrRe784jDjbFLlZWLtvY7LufZxovsWx8PdxPWhWyuIaDH02JH+qk5wq+YToHlHKMuoCBoX6CoJZwjN6ih8/ICFxIkHHz6XxwLqCJxp+\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (31,31)
+[23/Aug/2014:03:43:54 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:43:54 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:44:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:44:14 +0200] During processing of request from 127.0.0.1:43364
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:43364\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=oMJvqFwtQBTbJMiaokv6iCNgVt2jvW30jFYuQa2LqLDBS0Yxf8ixaSxkde6R+eY+G8Gpmj2cPTIsFeERCtnVi6XQXF/1NjJNpoqeWoYlE9Xizhou/MlX6Dtt6isyjOJNBaW0tQngV5KohwGJbZFz0MPUawfcNN+MJYuHIgiPUj7xdJMDF+2JUzsVMFXouRCnCFr26G4xRH3Xz8CE9rWFO8Fe8jKczMJ9Dgipqxxn55EcpLBiKKkB2FHv3EMa\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"oMJvqFwtQBTbJMiaokv6iCNgVt2jvW30jFYuQa2LqLDBS0Yxf8ixaSxkde6R+eY+G8Gpmj2cPTIsFeERCtnVi6XQXF/1NjJNpoqeWoYlE9Xizhou/MlX6Dtt6isyjOJNBaW0tQngV5KohwGJbZFz0MPUawfcNN+MJYuHIgiPUj7xdJMDF+2JUzsVMFXouRCnCFr26G4xRH3Xz8CE9rWFO8Fe8jKczMJ9Dgipqxxn55EcpLBiKKkB2FHv3EMa\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+./Data/Vector/Generic.hs:244 ((!)): index out of bounds (31,31)
+[23/Aug/2014:03:47:56 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:47:56 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:48:46 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:53:20 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:53:20 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:53:56 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:03:54:58 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:03:54:58 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:03:55:09 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:10:30:50 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:10:41:46 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:10:41:46 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:10:46:53 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:10:47:01 +0200] During processing of request from 127.0.0.1:39622
+request:
+"Request <\n    server-name: localhost\n    remote: 127.0.0.1:39622\n    local: 127.0.0.1:8000\n    Headers:\n      ========================================\n          User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/34.0.1847.116 Chrome/34.0.1847.116 Safari/537.36\n Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8\n Host: localhost:8000\n Referer: http://localhost:8000/\n Cache-Control: max-age=0\n Accept-Language: en-US,en;q=0.8,fr-FR;q=0.6,fr;q=0.4,nl;q=0.2\n DNT: 1\n Accept-Encoding: gzip,deflate,sdch\n Cookie: sess=0lciU0avT7Ri7ed6U1HFEuDM2+WV31NNcLbPWPWNic943/sxK1rRCy9kzvcCqydQNHsY97lF9TbgvKEh3YuowZ4X2126L7HkcA6WJ/joVIEO61lS1gHGO8kX9hcsl5I2nn59W4RIvti9tvaasLiWJ17kR1EbFFqnIRe/ehj2UfHt8iZxndsE3kvBkSGnduqaicqaT0FL8voSORU1E2osmtVK6BHktJnKWJFxKPv+/nzZnCJFid8ANfbJxVkF\n Connection: keep-alive\n      ========================================\n    content-length: Nothing\n    method: GET\n    version: (1,1)\n    cookies:\n      ========================================\n      Cookie {cookieName = \"sess\", cookieValue = \"0lciU0avT7Ri7ed6U1HFEuDM2+WV31NNcLbPWPWNic943/sxK1rRCy9kzvcCqydQNHsY97lF9TbgvKEh3YuowZ4X2126L7HkcA6WJ/joVIEO61lS1gHGO8kX9hcsl5I2nn59W4RIvti9tvaasLiWJ17kR1EbFFqnIRe/ehj2UfHt8iZxndsE3kvBkSGnduqaicqaT0FL8voSORU1E2osmtVK6BHktJnKWJFxKPv+/nzZnCJFid8ANfbJxVkF\", cookieExpires = Nothing, cookieDomain = Nothing, cookiePath = Nothing, cookieSecure = False, cookieHttpOnly = False}\n      ========================================\n    pathinfo: calendar\n    contextpath: /\n    URI: /calendar\n    params:\n      ========================================\n      \n      ========================================\n>"
+A web handler threw an exception. Details:
+SqlError {sqlState = "42601", sqlExecStatus = FatalError, sqlErrorMsg = "syntax error at or near \"1\"", sqlErrorDetail = "", sqlErrorHint = ""}
+[23/Aug/2014:10:47:44 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8000/]
+[23/Aug/2014:10:47:44 +0200] Error on startup: 
+bind: resource busy (Address already in use)
+[23/Aug/2014:10:48:01 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[23/Aug/2014:10:49:37 +0200] Server.httpServe: SHUTDOWN
+[23/Aug/2014:10:49:37 +0200] Server.httpServe: BACKEND STOPPED
+[23/Aug/2014:10:49:50 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:06:22 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:09:40 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:00:09:40 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:00:09:54 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:14:07 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:00:14:07 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:00:14:15 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:15:10 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:00:15:10 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:00:15:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:16:04 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:00:16:04 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:00:16:16 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:17:23 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:00:17:23 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:00:17:24 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:00:17:25 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:00:17:25 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:00:17:37 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:01:09:10 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:01:09:10 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:01:09:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:01:09:12 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:01:09:12 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:01:32:43 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:01:33:36 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:01:33:36 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:01:33:36 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:01:34:47 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:01:34:47 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:01:34:59 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:01:36:48 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:01:36:48 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:01:40:33 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:02:47:19 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:02:47:19 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:03:03:22 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:03:08:41 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:03:08:41 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:03:28:11 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:03:29:52 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:03:29:52 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:03:30:05 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:03:32:46 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:03:32:46 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:03:32:52 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:03:35:37 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:03:35:37 +0200] Server.httpServe: BACKEND STOPPED
+[25/Aug/2014:03:35:38 +0200] Server.httpServe: START, binding to [http://0.0.0.0:8080/]
+[25/Aug/2014:03:35:39 +0200] Server.httpServe: SHUTDOWN
+[25/Aug/2014:03:35:39 +0200] Server.httpServe: BACKEND STOPPED

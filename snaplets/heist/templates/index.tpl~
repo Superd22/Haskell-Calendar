@@ -1,0 +1,11 @@
+<apply template="base">
+
+  <ifLoggedIn>
+    <apply template="_calendar"/>
+  </ifLoggedIn>
+
+  <ifLoggedOut>
+    <apply template="_login"/>
+  </ifLoggedOut>
+
+</apply>
